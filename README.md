@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 80px;">⚓🦞</span>
+  <span style="font-size: 80px;">⚓🦞💪</span>
 </p>
 
 <h1 align="center">CommandClaw Skills</h1>
@@ -16,13 +16,11 @@
 Install skills into your CommandClaw vault:
 
 ```bash
-# From your vault directory
-npx skills add bash
-npx skills add github
-npx skills add file-ops
+# From your vault directory — select which skills to add
+npx skills add FnSK4R17s/commandclaw-skills
 ```
 
-Skills are installed into `.agents/skills/<skill-name>/SKILL.md` within your vault.
+Skills are installed into `.agents/skills/<skill-name>/SKILL.md` within your vault. The CLI will prompt you to choose which skills to install.
 
 ## Available Skills
 
