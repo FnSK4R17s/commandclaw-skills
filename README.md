@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="CommandClaw Skills" width="240">
+  <img src="logo.png" alt="CommandClaw Skills" height="88">
 </p>
 
 <h1 align="center">CommandClaw Skills</h1>
